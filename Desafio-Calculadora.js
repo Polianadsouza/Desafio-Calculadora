@@ -1,5 +1,5 @@
 let derrotas = 1;
-let vitorias = 91; 
+let vitorias = 15; 
 let nameHeroi = "Oliver"
 const resultado = calcularNivel(vitorias, derrotas);
 
